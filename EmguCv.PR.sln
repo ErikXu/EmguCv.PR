@@ -20,8 +20,6 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "EmguCv", "EmguCv", "{121B80
 		Dlls\EmguCv\ZedGraph.dll = Dlls\EmguCv\ZedGraph.dll
 	EndProjectSection
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Others", "Others", "{27E3B0F2-EAF9-4FBD-B18D-1A5CABD3E00A}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -42,6 +40,5 @@ Global
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{121B80D3-BC14-4FF7-BE82-9AB47AB781FA} = {C162EB84-C3A4-4DAB-8BE0-C11961011310}
-		{27E3B0F2-EAF9-4FBD-B18D-1A5CABD3E00A} = {121B80D3-BC14-4FF7-BE82-9AB47AB781FA}
 	EndGlobalSection
 EndGlobal
